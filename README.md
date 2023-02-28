@@ -22,7 +22,7 @@
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dapzer)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dapzer)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilavoronkov2002@gmail.com)
+<a href="mailto:danilavoronkov2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dapzer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
