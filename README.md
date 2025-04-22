@@ -8,7 +8,7 @@
 - Redux ToolKit, Zustand, MobX, TanStack Query
 - CSS, SCSS, Radix UI, Ant Design, Material UI
 - Node.js, NestJS, PostgreSQL, Redis, Prisma
-- Ethers.js, Uniswap SDK, Flashbots, CCXT
+- Ethers.js, Viem, Uniswap SDK, Flashbots, CCXT
 - ESLint, Prettier
 - Git, GitHub, GitLab, Docker
 
