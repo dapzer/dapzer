@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9985934c-c3df-4bc3-a698-b84c65e8b554)<h1 align="center">Hi! I'm Danila Voronkov</h1>
+<h1 align="center">Hi! I'm Danila Voronkov</h1>
 <h3 align="center">A passionate web developer</h3>
 
 ---
