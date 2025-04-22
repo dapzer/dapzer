@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Danila Voronkov</h1>
+![image](https://github.com/user-attachments/assets/9985934c-c3df-4bc3-a698-b84c65e8b554)<h1 align="center">Hi! I'm Danila Voronkov</h1>
 <h3 align="center">A passionate web developer</h3>
 
 ---
@@ -6,7 +6,7 @@
 - JavaScript, TypeScript
 - React, Next.js, Vue, Nuxt
 - Redux ToolKit, Zustand, MobX, TanStack Query
-- CSS, SCSS, Material UI, Radix UI, Ant Design
+- CSS, SCSS, Radix UI, Ant Design, Material UI
 - Node.js, NestJS, PostgreSQL, Redis, Prisma
 - Ethers.js, Uniswap SDK, Flashbots, CCXT
 - ESLint, Prettier
