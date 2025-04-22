@@ -6,7 +6,7 @@
 - JavaScript, TypeScript
 - React, Next.js, Vue, Nuxt
 - Redux ToolKit, Zustand, MobX, TanStack Query
-- CSS, SCSS, Material UI, Radix UI
+- CSS, SCSS, Material UI, Radix UI, Ant Design
 - Node.js, NestJS, PostgreSQL, Redis, Prisma
 - Ethers.js, Uniswap SDK, Flashbots, CCXT
 - ESLint, Prettier
