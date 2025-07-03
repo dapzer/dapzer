@@ -1,7 +1,3 @@
-<h1 align="center">Hi! I'm Danila Voronkov</h1>
-<h3 align="center">A passionate web developer</h3>
-
----
 ## Tech Stack:
 - JavaScript, TypeScript
 - React, Next.js, Vue, Nuxt
